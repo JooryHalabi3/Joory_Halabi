@@ -1,47 +1,65 @@
 <h1 align="center">Hi there 👋, I'm Joory Halabi</h1>
 
 <p align="center">
-🎓 Software Engineering Student at Umm Al-Qura University <br>
-💡 Passionate about technology, AI, and mobile app development<br>
-🚀 Currently working on graduation project "Tanabah" – an AI-powered car diagnostic app<br>
-🤝 Head of HR at Kibtar Tech Community
+🎓 Software Engineering Student at Umm Al-Qura University (GPA: 3.67/4) <br>
+🚘 Graduation Project Leader – "Tanabah", an AI-based car diagnostic app <br>
+💼 Head of HR @ Kibtar Tech Community | Passionate about building impactful tech <br>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
-- 📱 Flutter & Firebase  
-- 🧠 Python, AI, Prompt Engineering  
-- 💻 Git & GitHub  
-- 🎯 Agile, project leadership, and teamwork
+- 📱 Flutter & Firebase for mobile development  
+- 🧠 Python, AI & Data Science  
+- 💻 MySQL, Git & GitHub, Java  
+- 🎨 UI/UX design with Figma, UML, and architecture diagrams  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🚘 [Tanabah – Car Diagnostic App](https://github.com/YOUR-TANABAH-LINK)
-An intelligent app that reads OBD-II error codes, explains issues in simple terms, provides AI-generated maintenance reports, and alerts emergency contacts in case of crashes.
+### 🚘 Tanabah – AI Vehicle Diagnostic App  
+An intelligent mobile app that reads OBD-II car error codes, explains them, generates maintenance reports using AI, and alerts emergency contacts in case of accidents.
 
-### 💰 [Sa'ah – Savings & Expense Tracker](https://github.com/YOUR-SA3AH-LINK)
-A Flutter-based mobile app to help users organize saving goals, divide expenses, and track progress easily.
+### 💰 Sa'ah – Personal Budgeting App  
+A Flutter-based application to help users track expenses and manage monthly income effectively.
+
+### 🧮 Gym Management System  
+A full-stack system using MySQL, Chen's Notation, and UML to handle data management for gym operations.
+
+### 🚗 Ride Booking App (Prototype)  
+UI and architecture planning for a mobile ride-hailing experience.
+
+### 💄 Makeup Store UI  
+Front-end prototype for a beauty store using Figma, focusing on flow and clean design.
 
 ---
 
 ## 🎓 Certifications
-- Git & GitHub Fundamentals  
-- AI & Prompt Engineering Basics  
-- Flutter Development Workshop  
-- Technical HR Management – Kibtar
+- 🧠 Artificial Intelligence Specialization – KAUST  
+- 💡 Elements of AI – University of Helsinki  
+- 🧪 Data Fundamentals – IBM Skills Build  
+- ⌛ Time Management – University of California, Irvine  
+- 💻 Introduction to Data Science in Python – University of Michigan  
+- 🖥️ Intro to Hardware & OS – IBM  
+
+---
+
+## 🧑‍💼 Leadership & Community
+- 👩‍💼 **Head of Human Resources** – Kibtar Tech Community  
+- 🛠️ **Hackathon Management Leader** – Tech Entrepreneurship Week, UQU  
+- 🕋 **Pilgrims Innovation Challenge Participant** – QuestifyHub  
 
 ---
 
 ## 📌 Quick Facts
-- 🌟 I enjoy building real-world apps that make a difference  
-- 🧩 Strong believer in learning through collaboration  
-- 📷 I also love photography and design during my free time  
+- 💬 Bilingual: Arabic & English  
+- 🚀 Driven by curiosity and the desire to build smart, helpful tools  
+- 🤝 Believer in teamwork, communication, and lifelong learning  
+- 📷 Outside tech: I enjoy photography and exploring creative design  
 
 ---
 
-## 📫 Let's connect!
-- 📩 Email: joory6067@hotmail.com  
+## 📫 Let's Connect!
+- 📧 Email: joory6067@hotmail.com  
 - 💼 LinkedIn: [Joory Halabi](http://www.linkedin.com/in/joory-halabi-978661366)
