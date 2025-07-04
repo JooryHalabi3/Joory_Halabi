@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Joory Halabi</h1>
 
 <p align="center">
-🎓 Software Engineering Student at Umm Al-Qura University (GPA: 3.67/4) <br>
-🚘 Graduation Project Leader – "Tanabah", an AI-based car diagnostic app <br>
-💼 Head of HR @ Kibtar Tech Community | Passionate about building impactful tech <br>
+🎓 Software Engineering Student at Umm Al-Qura University <br>
+🚘 Graduation Project Leader – "Tnabbah", an AI-based car diagnostic app <br>
+💼 Head of HR @ Kiptar Tech Community | Passionate about building impactful tech <br>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Front-end prototype for a beauty store using Figma, focusing on flow and clean d
 ---
 
 ## 🧑‍💼 Leadership & Community
-- 👩‍💼 **Head of Human Resources** – Kibtar Tech Community  
+- 👩‍💼 **Head of Human Resources** – Kiptar Tech Community  
 - 🛠️ **Hackathon Management Leader** – Tech Entrepreneurship Week, UQU  
 - 🕋 **Pilgrims Innovation Challenge Participant** – QuestifyHub  
 
